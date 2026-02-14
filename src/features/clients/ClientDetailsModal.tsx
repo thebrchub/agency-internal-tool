@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { X, Calendar, Globe, Mail, Phone, DollarSign, ShieldCheck, Server, Save, RotateCcw, Briefcase, Link as LinkIcon, FileText, Layers } from 'lucide-react';
+import { X, Calendar, Globe, Mail, Phone, DollarSign, ShieldCheck, Server, Save, RotateCcw, Briefcase, Link as LinkIcon, FileText} from 'lucide-react';
 import { StatusBadge } from '../../components/ui/StatusBadge';
 
 interface ClientDetailsModalProps {

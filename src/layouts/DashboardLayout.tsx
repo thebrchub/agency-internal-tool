@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { LayoutDashboard, Users, CreditCard, Settings, LogOut, ChevronLeft, ChevronRight, Menu } from 'lucide-react';
+import { LayoutDashboard, Users, CreditCard, Settings, LogOut, ChevronLeft, ChevronRight } from 'lucide-react';
 import logo from '../assets/logo.svg';
 
 interface Props {

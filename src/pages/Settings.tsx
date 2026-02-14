@@ -1,4 +1,4 @@
-import { Save, Trash2, Shield, Database } from 'lucide-react';
+import { Trash2, Shield, Database } from 'lucide-react';
 
 export const Settings = () => {
   const handleClearData = () => {

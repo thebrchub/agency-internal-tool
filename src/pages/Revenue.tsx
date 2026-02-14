@@ -1,4 +1,4 @@
-import { DollarSign, FileText, TrendingUp, AlertCircle } from 'lucide-react';
+import { DollarSign, FileText,  AlertCircle } from 'lucide-react';
 import { SummaryCard } from '../components/ui/SummaryCard';
 import { StatusBadge } from '../components/ui/StatusBadge';
 

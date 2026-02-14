@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { MoreHorizontal, Search, Filter, X, ArrowRight } from 'lucide-react';
+import { MoreHorizontal, Search, Filter, ArrowRight } from 'lucide-react';
 import { StatusBadge } from '../../components/ui/StatusBadge';
 import { SlideOver } from '../../components/ui/SlideOver';
 import { AddClientForm } from './AddClientForm';
